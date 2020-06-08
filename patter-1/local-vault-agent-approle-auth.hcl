@@ -13,7 +13,7 @@ auto_auth {
 
   sink "file" {
     config = {
-      path = "DIR_REPLACEapproleToken"
+      path = "DIR_REPLACE/approleToken"
     }
   }
 }
